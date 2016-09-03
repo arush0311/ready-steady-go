@@ -95,13 +95,13 @@ function counter(list,
 }
 
 counter(
-	["Ready", "Steady", "Go!!!!"],
-	1000,
+	["Hey, I just met you..", "And this is crazy !", "But here's my software...", "So use that, maybe!!"],
+	2500,
 	{
-		'background-color': "#fff",
+		'background-color': "#111",
 	},
 	{
-		'color': '#8c8c8c'
+		'color': '#eee'
 	},
 	{
 		'font-size': '60px',
